@@ -67,4 +67,8 @@ def ___game():
 
 while input('Do you want to play again (y/n)?')=="y":
   clear()
+<<<<<<< HEAD
   ___game()
+=======
+  ___game()
+>>>>>>> 59b4f105685684cb15e79243a4df4929669367bd
