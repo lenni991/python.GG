@@ -9,7 +9,7 @@ def compare_numbers(guessed_number, target_number):
     absolute_difference = abs(difference)
 
     if absolute_difference == 0:
-        print(f"WOW! You guessed the exact number: {target_number}")
+        print(f"Well Played! You guessed the exact number: {target_number}")
     elif absolute_difference <= 2:
         print("Very close! You are almost there.")
     elif absolute_difference <= 5:
